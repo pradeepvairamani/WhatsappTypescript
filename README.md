@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Whatsapp clone - React + Typescript](Images/whatsapp-screenshot.png)
 
 ## Available Scripts
 

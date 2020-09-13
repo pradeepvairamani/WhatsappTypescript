@@ -72,11 +72,13 @@
 .chat__footer > form {
     flex: 1;
     display: flex;
+    outline-width: 0;
 }
 
 .chat__footer > form > input {
     flex: 1;
     border-radius: 30px;
+    outline-width: 0;
     padding: 10px;
     border: none;
 }
