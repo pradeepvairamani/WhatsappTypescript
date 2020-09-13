@@ -1,5 +1,7 @@
 ![Whatsapp clone - React + Typescript](Images/whatsapp-screenshot.png)
 
+This project is the typescript version of the excellent tutorial by https://www.cleverprogrammer.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
